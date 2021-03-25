@@ -1,6 +1,6 @@
 <?php
 $n=(int)readline();
-$problems = [];
+$problems=[];
 for ($i=0; $i<$n; $i++){
 
     $number =readline();
@@ -20,4 +20,8 @@ for ($i=0;$i<$n;$i++){
    }
     echo "\n";
 }
+
+
+
+
 
