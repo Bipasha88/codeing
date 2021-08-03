@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90ef398e-a4e9-42f0-9df4-3a73051eb63f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1097A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1108A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/112A(Petya and Strings).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/116A(tram).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1176A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/118A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1199B.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1301A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/131A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1512A(spy detected).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1512B(Almost rectangle).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/155A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/158A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/186A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/200B.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/231A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/236A(Boy or Girl).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/237A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/266B(Queue at the school).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/281A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2DArrayInput.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/41A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/427A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/448A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/490A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/510A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/519A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/540A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/546A(Soldiar and Bananas).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/596A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/596B.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59A(Word).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/602A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/616A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/617A(Elephant).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/63A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/660B.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/686A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/711A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/71A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/746B.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/791A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/807A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/918B.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/96A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/977A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/977B.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/browser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chess.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/count.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diamond2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doggy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramidP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursive_fact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringInput.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangleP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watermalon.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wDitH0CgCSrLIAIN52mzb8lAJo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ef398e-a4e9-42f0-9df4-3a73051eb63f" name="Default Changelist" comment="" />
+      <created>1627999777665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627999777665</updated>
+      <workItem from="1627999780671" duration="465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
